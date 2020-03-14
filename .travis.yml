@@ -11,7 +11,6 @@ jobs:
   include:
     - name: "checks"
       script:
-        - chmod 755 scripts/*.sh
         - docker run -v `pwd`:`pwd` -w `pwd` rusdevops/bootstrap-cpp ./scripts/checks.sh
     - name: "tests"
       script:
@@ -22,4 +21,3 @@ jobs:
  
 notifications:
   email: false
-  

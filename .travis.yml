@@ -13,6 +13,6 @@ jobs:
       script:
         - chmod 755 scripts/*.sh
         - docker run -v `pwd`:`pwd` -w `pwd` rusdevops/bootstrap-cpp ./scripts/checks.sh
-
+ 
 notifications:
   email: false

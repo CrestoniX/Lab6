@@ -22,7 +22,8 @@
         std::cout << "\033[32m" << __FUNCTION__ << "(LINE:" << __LINE__
         << ") is succeeded." << "\033[39m" << std::endl;\
     }\
-    else{\
+    else
+    {\
         std::cout << "\033[31m" << __FUNCTION__ << "(LINE:" << __LINE__
         << ") is failed.\n\t" << #a << " != " << #b \
         << "\033[39m" << std::endl;\
@@ -57,6 +58,7 @@ void input_hex(std::istream& is, OutIter first, OutIter last){
         if ('0' <= c && c <= '9'){
             buffer.push_back(c-'0');
         }else
+        {
         if ('a' <= c && c <= 'f'){
             buffer.push_back(c-'a'+10); 
         }

@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c54f41-00a2-41b1-8167-188aa7248582" name="Default Changelist" comment="" />
+    <list default="true" id="a0c54f41-00a2-41b1-8167-188aa7248582" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Enumeration.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/Enumeration.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picosha/test/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/picosha/test/test.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +90,7 @@
       <workItem from="1582543831016" duration="912000" />
       <workItem from="1582734017868" duration="12194000" />
       <workItem from="1582825064938" duration="1714000" />
-      <workItem from="1584267746893" duration="1993000" />
+      <workItem from="1584267746893" duration="2949000" />
     </task>
     <servers />
   </component>

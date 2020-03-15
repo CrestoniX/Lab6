@@ -11,7 +11,7 @@
 #include <atomic>
 #include <boost/log/trivial.hpp>
 #include <cstdlib>
-#include <picosha2.h>
+#include <1/picosha/picosha2.h>
 #include <vector>
 #include <iostream>
 #include <string>

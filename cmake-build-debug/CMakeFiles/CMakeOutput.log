@@ -510,3 +510,33 @@ Parsed CXX implicit link information from above output:
   implicit fwks: []
 
 
+Determining if the clock_gettime exist passed with the following output:
+Change Dir: D:/Labs/lab-06-multithreads/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_25ded/fast && C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_25ded.dir\build.make CMakeFiles/cmTC_25ded.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Labs/lab-06-multithreads/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_25ded.dir/CheckSymbolExists.cxx.obj
+C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTC_25ded.dir\CheckSymbolExists.cxx.obj -c D:\Labs\lab-06-multithreads\cmake-build-debug\CMakeFiles\CMakeTmp\CheckSymbolExists.cxx
+Linking CXX executable cmTC_25ded.exe
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_25ded.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_25ded.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_25ded.dir/objects.a @CMakeFiles\cmTC_25ded.dir\objects1.rsp
+C:\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_25ded.dir/objects.a -Wl,--no-whole-archive  -o cmTC_25ded.exe -Wl,--out-implib,libcmTC_25ded.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_25ded.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Labs/lab-06-multithreads/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+File D:/Labs/lab-06-multithreads/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef clock_gettime
+  return ((int*)(&clock_gettime))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

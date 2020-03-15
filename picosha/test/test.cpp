@@ -57,8 +57,7 @@ void input_hex(std::istream& is, OutIter first, OutIter last) {
         is >> c;
         if ('0' <= c && c <= '9') {
             buffer.push_back(c - '0');
-        } else
-        {
+        } else {
             if ('a' <= c && c <= 'f') {
                 buffer.push_back(c - 'a' + 10);
             }

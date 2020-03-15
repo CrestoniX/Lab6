@@ -57,7 +57,8 @@ void input_hex(std::istream& is, OutIter first, OutIter last) {
         is >> c;
         if ('0' <= c && c <= '9') {
             buffer.push_back(c - '0');
-        } else
+        }
+        else
         {
             if ('a' <= c && c <= 'f') {
                 buffer.push_back(c - 'a' + 10);
@@ -223,7 +224,7 @@ void test(){
             PICOSHA2_CHECK_EQUAL(ans_hex_str, hash_hex_str);
         }
         {
-            std::string hash_hex_str = 
+            std::string hash_hex_str =
                 picosha2::hash256_hex_string(src_vect.begin(),
                         src_vect.end());
             PICOSHA2_CHECK_EQUAL(ans_hex_str, hash_hex_str);

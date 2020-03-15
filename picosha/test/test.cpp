@@ -46,21 +46,23 @@ bool is_same_bytes(const InContainer1& bytes1, const InContainer2& bytes2){
 }
 
 template<typename OutIter>
-void input_hex(std::istream& is, OutIter first, OutIter last){
+void input_hex(std::istream& is, OutIter first, OutIter last) {
     char c;
     std::vector<char> buffer;
-    while (first != last){
-        if (buffer.size() == 2){
-            *(first++) = (buffer.front()*16+buffer.back());
+    while (first != last) {
+        if (buffer.size() == 2) {
+            *(first++) = (buffer.front() * 16 + buffer.back());
             buffer.clear();
         }
         is >> c;
-        if ('0' <= c && c <= '9'){
-            buffer.push_back(c-'0');
-        }else
+        if ('0' <= c && c <= '9') {
+            buffer.push_back(c - '0');
+        }
+        else
         {
-        if ('a' <= c && c <= 'f'){
-            buffer.push_back(c-'a'+10); 
+            if ('a' <= c && c <= 'f') {
+                buffer.push_back(c - 'a' + 10);
+            }
         }
     }
 }

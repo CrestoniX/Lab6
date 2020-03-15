@@ -1,4 +1,4 @@
-ToolSet: 15.0 (local)@D:\Microsoft Visual Studio\2017\Community
-Options: msvc.arch=x86
+ToolSet: 5.2 (local)@C:\MinGW
+Options: 
 
 Options:

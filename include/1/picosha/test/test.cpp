@@ -1,4 +1,4 @@
-// Copyright 2020 Kondr11
+// Copyright 2020 CrestoniX
 
 #include "../picosha2.h"
 #include <iostream>

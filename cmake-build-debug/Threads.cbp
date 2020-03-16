@@ -5,7 +5,7 @@
 		<Option title="Threads"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\tools\;CMake Files\tools\gate\;CMake Files\.hunter\;CMake Files\.hunter\_Base\;CMake Files\.hunter\_Base\Download\;CMake Files\.hunter\_Base\Download\Hunter\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\modules\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\configs\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\schemes\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\filesystem\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\log\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\system\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\thread\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\find\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\scripts\;CMake Files\.hunter\_Base\9a3594a\;CMake Files\.hunter\_Base\9a3594a\6549ddd\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__filesystem\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__log\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__system\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__thread\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\cmake\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\cmake\Boost\;CMake Files\.hunter\_Base\Cache\;CMake Files\.hunter\_Base\Cache\meta\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\1.64.0\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\1.64.0\51421ef\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\1.64.0\51421ef\da39a3e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\1.64.0\51421ef\da39a3e\4830b34\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\1.64.0\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\1.64.0\51421ef\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\1.64.0\51421ef\da39a3e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\1.64.0\51421ef\da39a3e\4830b34\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\1.64.0\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\1.64.0\51421ef\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\1.64.0\51421ef\da39a3e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\1.64.0\51421ef\da39a3e\4830b34\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\1.64.0\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\1.64.0\51421ef\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\1.64.0\51421ef\da39a3e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\1.64.0\51421ef\da39a3e\4830b34\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\1.64.0\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\1.64.0\51421ef\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\1.64.0\51421ef\da39a3e\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\1.64.0\51421ef\da39a3e\4830b34\;CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_3rdParty\;CMake Files\cmake-build-debug\_3rdParty\Hunter\;CMake Files\cmake-build-debug\_3rdParty\Hunter\toolchain\;CMake Files\cmake-build-debug\_3rdParty\Hunter\config-id\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\tools\;CMake Files\tools\gate\;CMake Files\.hunter\;CMake Files\.hunter\_Base\;CMake Files\.hunter\_Base\Download\;CMake Files\.hunter\_Base\Download\Hunter\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\modules\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\configs\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\filesystem\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\log\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\system\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\thread\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\find\;CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\scripts\;CMake Files\.hunter\_Base\9a3594a\;CMake Files\.hunter\_Base\9a3594a\6549ddd\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\cmake\;CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\cmake\Boost\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_3rdParty\;CMake Files\cmake-build-debug\_3rdParty\Hunter\;CMake Files\cmake-build-debug\_3rdParty\Hunter\toolchain\;CMake Files\cmake-build-debug\_3rdParty\Hunter\config-id\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="D:/Labs/lab-06-multithreads/cmake-build-debug"/>
@@ -349,12 +349,6 @@
 		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Download/Hunter/0.23.218/9a3594a/Unpacked/cmake/projects/Boost/hunter.cmake">
 			<Option virtualFolder="CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\"/>
 		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Download/Hunter/0.23.218/9a3594a/Unpacked/cmake/projects/Boost/schemes/url_sha1_boost.cmake.in">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\schemes\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Download/Hunter/0.23.218/9a3594a/Unpacked/cmake/projects/Boost/schemes/url_sha1_boost_library.cmake.in">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\schemes\"/>
-		</Unit>
 		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Download/Hunter/0.23.218/9a3594a/Unpacked/cmake/projects/Boost/filesystem/hunter.cmake">
 			<Option virtualFolder="CMake Files\.hunter\_Base\Download\Hunter\0.23.218\9a3594a\Unpacked\cmake\projects\Boost\filesystem\"/>
 		</Unit>
@@ -376,86 +370,11 @@
 		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/config.cmake">
 			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\"/>
 		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/types.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__filesystem/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__filesystem\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__filesystem/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__filesystem\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__filesystem/types.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__filesystem\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__log/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__log\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__log/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__log\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__log/types.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__log\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__system/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__system\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__system/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__system\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__system/types.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__system\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__thread/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__thread\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__thread/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__thread\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Build/Boost/__thread/types.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Build\Boost\__thread\"/>
-		</Unit>
 		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Install/lib/cmake/Boost/BoostConfig.cmake">
 			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\cmake\Boost\"/>
 		</Unit>
 		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/9a3594a/6549ddd/2c875e7/Install/lib/cmake/Boost/BoostConfigVersion.cmake">
 			<Option virtualFolder="CMake Files\.hunter\_Base\9a3594a\6549ddd\2c875e7\Install\lib\cmake\Boost\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__filesystem/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__filesystem/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__filesystem\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__log/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__log/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__log\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__system/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__system/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__system\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__thread/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="D:/Labs/lab-06-multithreads/.hunter/_Base/Cache/meta/6549ddd/Boost/__thread/1.64.0/51421ef/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\.hunter\_Base\Cache\meta\6549ddd\Boost\__thread\1.64.0\51421ef\da39a3e\4830b34\f54ee8e\"/>
 		</Unit>
 		<Unit filename="D:/Labs/lab-06-multithreads/cmake-build-debug/_3rdParty/Hunter/toolchain/toolchain.info.NOLF">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_3rdParty\Hunter\toolchain\"/>

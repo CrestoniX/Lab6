@@ -1,4 +1,4 @@
-// Copyright 2020 Kondr11
+// Copyright 2020 CrestoniX
 
 #ifndef INCLUDE_ENUMERATION_HPP_
 #define INCLUDE_ENUMERATION_HPP_
